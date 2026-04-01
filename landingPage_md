@@ -1,0 +1,372 @@
+
+# **ALERA LANDING PAGE — FINAL VERSION (V3)**
+
+---
+
+# **GLOBAL DESIGN SYSTEM (APPLIES TO ALL SECTIONS)**
+
+### **Visual Language**
+
+* **Base Theme:** Dark futuristic medical UI
+* **Primary Colors:**
+
+  * Deep black: `#0A0A0F`
+  * Glass layer: `rgba(255,255,255,0.05)`
+  * Accent gradient: `linear-gradient(135deg, #00F5D4, #3A86FF)`
+* **Typography:**
+
+  * Headings: Inter / Satoshi (semi-bold)
+  * Body: Inter (regular)
+
+### **Effects to Use**
+
+* **Glassmorphism:**
+
+  * `backdrop-filter: blur(20px)`
+  * soft border: `1px solid rgba(255,255,255,0.08)`
+* **Neumorphism (subtle, dark):**
+
+  * inner shadows for cards and buttons
+* **Framer Motion:**
+
+  * fade-up, stagger children, hover scale (1.03–1.06)
+* **Parallax:**
+
+  * slow-moving background gradients / particles reacting to scroll
+* **Microinteractions:**
+
+  * glowing CTA hover
+  * animated counters
+  * progress bars
+
+---
+
+# **HERO SECTION (HIGH IMPACT)**
+
+### **Headline**
+
+Your biology already knows the answer. Alera makes it actionable.
+
+### **Sub-headline**
+
+Stop guessing your health. Alera transforms your DNA, labs, and lifestyle into precise, evolving protocols built for real outcomes.
+
+### **CTA**
+
+* Primary: **Join Waitlist — Win Lifetime Access**
+* Secondary: **See How It Works**
+
+---
+
+### **Visual (CRITICAL)**
+
+**Layered Design:**
+
+* Background: parallax gradient mesh (slow movement)
+* Floating **glassmorphic dashboard card**
+
+**Dashboard UI (animated):**
+
+* Health Score: **94 → 96% (animated counter)**
+* Daily stack checklist (tick animations)
+* Graph trending upward (loop animation)
+
+**Motion:**
+
+* Entire UI floats slightly (Framer Motion)
+* Glow pulses subtly on key metrics
+
+---
+
+# **SECTION 1 — PROBLEM (EMOTIONAL HOOK)**
+
+### **Title**
+
+You’re doing everything right. Still getting nowhere.
+
+### **Copy**
+
+You track your sleep.
+You run tests.
+You try supplements.
+
+But nothing connects.
+
+Health today is fragmented.
+Each signal exists in isolation. No system turns it into direction.
+
+Alera unifies your biology into one adaptive intelligence layer — so every action actually moves you forward.
+
+---
+
+### **Visual**
+
+**Split screen with parallax:**
+
+* Left: clutter (reports, pills, confusion)
+* Right: clean Alera UI (glass cards, glowing clarity)
+
+---
+
+# **SECTION 2 — HOW IT WORKS (CORE PRODUCT)**
+
+### **Title**
+
+From raw data to precise action.
+
+### **Flow (Animated horizontal timeline)**
+
+1. **Input your biology**
+   DNA, bloodwork, lifestyle
+
+2. **AI decoding layer**
+   Multi-signal interpretation engine
+
+3. **Personal protocol**
+   Daily supplements, nutrition, routines
+
+4. **Adaptive feedback loop**
+   Improves as you evolve
+
+---
+
+### **Design**
+
+* Glass cards connected with glowing gradient line
+* Icons animate on scroll (scale + fade)
+* Hover = slight neumorphic press effect
+
+---
+
+# **SECTION 3 — FREE PROTOCOLS (LEAD MAGNET)**
+
+### **Title**
+
+Start optimizing today.
+
+### **Copy**
+
+Access clinically structured starter protocols for:
+
+* Energy & fatigue
+* Longevity baseline
+* Cognitive performance
+* Hormone balance
+* Post-GLP-1 recovery
+
+Built on the same intelligence powering Alera.
+
+---
+
+### **CTA**
+
+Unlock Free Protocols
+
+---
+
+### **Visual**
+
+**Glassmorphic carousel with blur-lock**
+
+* Cards partially visible
+* Hover → unlock glow effect
+* Scroll snap interaction
+
+---
+
+# **SECTION 4 — PRODUCT ROADMAP (TRUST + VISION)**
+
+### **Title**
+
+This is just the beginning.
+
+### **Timeline (Animated)**
+
+* **Q4 2025** — Personalized Protocol Engine
+* **Q1 2026** — Wearable integrations
+* **Q2–Q3 2026** — Predictive health intelligence
+* **Q4 2026** — Health marketplace
+* **2027** — Personal health agent
+
+---
+
+### **Visual**
+
+* Horizontal scroll timeline
+* Nodes glow when in viewport
+* Subtle parallax shift
+
+---
+
+# **SECTION 5 — TARGET USER (IDENTITY ALIGNMENT)**
+
+### **Title**
+
+Built for people who don’t leave health to chance.
+
+### **Bullets**
+
+* Optimize cognitive and physical performance
+* Extend healthspan
+* Understand biology deeply
+* Prevent instead of react
+* Track real progress
+* Own their data
+
+---
+
+### **Visual**
+
+* Grid of users with **glass overlay tags**
+* Hover reveals intent labels (e.g., “Biohacker”, “Founder”)
+
+---
+
+# **SECTION 6 — DATA OWNERSHIP (TRUST LAYER)**
+
+### **Title**
+
+Your data. Fully controlled. Never exploited.
+
+### **Copy**
+
+Alera is built on a zero-compromise privacy architecture:
+
+* AES-256 encryption
+* No data selling. Ever.
+* HIPAA, GDPR, PDPL aligned
+* User-controlled access
+* Future: decentralized identity layer
+
+Optional: monetize anonymized insights for research.
+
+---
+
+### **Visual**
+
+* 3D glowing DNA inside glass vault
+* Subtle rotating animation
+
+---
+
+# **SECTION 7 — WAITLIST GAMIFICATION (GROWTH ENGINE)**
+
+### **Title**
+
+Early access is earned.
+
+### **Copy**
+
+We’re giving **50 lifetime memberships** to the most engaged early users.
+
+### **Mechanics**
+
+* Refer users
+* Share content
+* Engage socially
+
+---
+
+### **UI**
+
+* Progress bar: “Rank #237 → Top 50”
+* Leaderboard preview
+* Animated rank movement
+
+---
+
+### **CTA**
+
+Join Waitlist — Compete for Lifetime Access
+
+---
+
+# **SECTION 8 — SOCIAL PROOF**
+
+### **Title**
+
+Built with scientific rigor. Backed by real operators.
+
+### **Copy**
+
+Alera combines expertise from:
+
+* Genetics
+* AI systems
+* Longevity science
+
+---
+
+### **Visual**
+
+* Video cards (glass style)
+* Logos fade-in on scroll
+
+---
+
+# **SECTION 9 — FINAL CTA (CONVERSION CLOSE)**
+
+### **Headline**
+
+Take control of your biology.
+
+### **Sub-headline**
+
+Join early. Personalize everything. Win lifetime access.
+
+---
+
+### **CTA**
+
+Join Now — Limited Lifetime Seats
+
+---
+
+### **Microinteraction**
+
+* Counter ticking down slowly
+* Button glow intensifies on hover
+
+---
+
+# **FOOTER**
+
+* About
+* Protocols
+* Careers
+* Investors
+
+**Legal:**
+Alera © 2026
+Privacy | Data Protection | Medical Disclaimer
+
+Alera provides informational guidance only and is not a medical device.
+
+
+# **ACTION PLAN (EXECUTION)**
+
+### **Step 1 — Build UI**
+
+* Use **Next.js + Tailwind + Framer Motion**
+* Componentize:
+
+  * GlassCard
+  * AnimatedCounter
+  * Timeline
+  * Leaderboard
+
+### **Step 2 — Add Effects**
+
+* Framer Motion for:
+
+  * Hero animation
+  * Scroll reveals
+* Parallax:
+
+  * Use `react-scroll-parallax`
+
+### **Step 3 — Growth Stack**
+
+* Waitlist: Viral Loops / KickoffLabs
+* Analytics: PostHog
+* A/B testing: simple CTA variations
